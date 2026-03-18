@@ -21,10 +21,10 @@ def _lineNotify(payload,file=None):
 #ทำ connect ไปที่ database
 
 conn = mysql.connector.connect(
-    host="localhost",
-    user="root",
+    host="",
+    user="",
     password="",
-    database="test"
+    database=""
 )
 
 cur = conn.cursor()
