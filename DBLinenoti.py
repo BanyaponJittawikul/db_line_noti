@@ -21,7 +21,7 @@ def _lineNotify(payload,file=None):
 #ทำ connect ไปที่ database
 
 conn = mysql.connector.connect(
-    host="",
+    host="root",
     user="",
     password="",
     database=""
