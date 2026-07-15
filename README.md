@@ -9,7 +9,7 @@
 โดยจะส่งในรูปแบบ
 
 {
-PO : \n
-Due Date : \n
-Status : \n
+PO : <br />
+Due Date : <br />
+Status : <br />
 }
